@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/creact-react-router/static/css/main.fee5b2af.css",
+    "main.js": "/creact-react-router/static/js/main.0bab91d5.js",
+    "index.html": "/creact-react-router/index.html",
+    "main.fee5b2af.css.map": "/creact-react-router/static/css/main.fee5b2af.css.map",
+    "main.0bab91d5.js.map": "/creact-react-router/static/js/main.0bab91d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fee5b2af.css",
+    "static/js/main.0bab91d5.js"
+  ]
+}
